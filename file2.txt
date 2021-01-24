@@ -1,1 +1,4 @@
 Hello Git 2'nd
+newline added
+newline added
+more newline added
